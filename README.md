@@ -1,5 +1,5 @@
 ![MoneyPower's GitHub stats](https://github-readme-stats.vercel.app/api?username=moenypower&show_icons=true&theme=react)
-- 👋 Hi there, I’m MoenyPower!
+- 👋 Hi there, I’m MoneyPower!
 - 👀 I’m interested in Economic freedom
 - 🌱 I’m currently learning python back-end, machine learning, ts-react front-end, design 
 - 📫 Contact -> infinitymoneypower@gmail.com
